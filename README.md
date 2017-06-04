@@ -3,15 +3,7 @@
 * * *
 
  Settings>[Warn/ban/lock/unlock]
- Commands
-```sh
-*---------*
-قفل لینک
-بازکردن لینک
-اخطار لینک
-بن لینک
-*---------*```
-
+ 
 Installation
 ```sh
 git clone https://github.com/SoHeil-R/Part.git
