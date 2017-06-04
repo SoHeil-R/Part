@@ -76,9 +76,7 @@ function create_config( )
 		"msg-checks",
 		"plugins",
 	},
-    sudo_users = {
-   311231963,
-},
+    sudo_users = {311231963,sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
