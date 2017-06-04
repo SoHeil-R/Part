@@ -2873,7 +2873,8 @@ end
 		end
 	end
 	-- return msg
-
+ end
+end
 return {
 patterns ={
 "^(ایدی)$",
