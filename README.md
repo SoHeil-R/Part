@@ -10,6 +10,7 @@
 اخطار لینک
 بن لینک
 *---------*```
+
 Installation
 ```
 git clone https://github.com/SoHeil-R/Part.git
@@ -22,6 +23,7 @@ and launch
 cd Part
 screen ./launch.sh
 ```
+
 * * * 
 
 # Support Part [>Join<](https://t.me/joinchat/AAAAAENXcEL-mehio3KKUw)
