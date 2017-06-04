@@ -75,8 +75,6 @@ function create_config( )
 		"groupmanager",
 		"msg-checks",
 		"plugins",
-		"tools",
-	    "fun",
 	},
     sudo_users = {
    311231963,
