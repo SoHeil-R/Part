@@ -4,7 +4,8 @@
 
  Settings>[Warn/ban/lock/unlock]
  Commands
-```*---------*
+```sh
+*---------*
 قفل لینک
 بازکردن لینک
 اخطار لینک
