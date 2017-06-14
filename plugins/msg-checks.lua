@@ -270,7 +270,7 @@ if msg.adduser or msg.joinuser or msg.deluser then
 del_msg(chat, tonumber(msg.id))
   end
 end
-
+if not is_mod(msg) then
    if msg.pinned and is_channel then
   if lock_pin == "yes" then
      if is_owner(msg) then
@@ -955,6 +955,7 @@ redis:setex('sender:'..user..':flood', 30, true)
            end
       end
    end
+end
 end
 end
 end
